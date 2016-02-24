@@ -1,0 +1,9 @@
+{
+  "name": "iot-hub-demo",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Demo access Azure IoT Hub melalui Node.js",
+  "dependencies": {
+    "azure-iot-device": "latest"
+  }
+}
